@@ -1,7 +1,6 @@
 # Project Description
 For our machine learning final project, we decided to predict
-[Myers Briggs personality types(MBTI)](https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator)
-using a dataset we found on Kaggle. The dataset consists of posts users made on a personality forum:
+[Myers Briggs personality types(MBTI)](https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator). The dataset consists of posts users made on a personality forum:
 https://www.kaggle.com/datasnaek/mbti-type
 
 ## Methods
@@ -21,3 +20,5 @@ rather than extroverted (E) and Sensitive (S). Because of this, all the models w
 trouble classifying extroversion vs introversion and intuition vs sensitivity. However, when we 
 made a Voting Classifier using Logarithmic Regression, Random Forest, LightGBM, and XGBoost, we 
 were able to achieve the best AUC-ROC score and f-scores.
+
+For more details, please check out the [Fianl Report Notebook](MBTI_Project_Report.ipynb) and [Slides](ML Final Presentation.pdf) we made for our project presentation.
