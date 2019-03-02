@@ -21,4 +21,4 @@ trouble classifying extroversion vs introversion and intuition vs sensitivity. H
 made a Voting Classifier using Logarithmic Regression, Random Forest, LightGBM, and XGBoost, we 
 were able to achieve the best AUC-ROC score and f-scores.
 
-For more details, please check out the [Fianl Report Notebook](MBTI_Project_Report.ipynb) and [Slides]('ML Final Presentation.pdf') we made for our project presentation.
+For more details, please check out the [Fianl Report Notebook](MBTI_Project_Report.ipynb) and [Slides]<https://github.com/nanlin7/MBTI-ML/blob/master/ML%20Final%20Presentation.pdf> we made for our project presentation.
